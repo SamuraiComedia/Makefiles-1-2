@@ -1,0 +1,6 @@
+.limpar - clear
+mega:
+     pwd
+     echo "ESTOU APRENDENDO LINUX FAVOR TER PACIENCIA"
+clean:
+        rm -rf *.o
